@@ -10,7 +10,9 @@ package programacomposicioncono;
 
 public class Cono {
 	
-	//Atributos
+	/**
+	 * Estos son los atributos de la clase
+	 */
 	private Circulo base;
 	private float altura;
 	private String color;
